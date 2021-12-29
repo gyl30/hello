@@ -1,32 +1,16 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
+build/
+bin/
+.ccls-cache/
+.clangd/
+*.tmp
 *.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+compile_commands.json
+.idea/
+cmake-build-debug/
+CMakeLists.txt.user
+*.plist
+.qmake.*
+logs/
+tmp/
+db/
+.cache

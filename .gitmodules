@@ -1,0 +1,6 @@
+[submodule "third/range-v3"]
+	path = third/range-v3
+	url = https://github.com/ericniebler/range-v3.git
+[submodule "third/rapidjson"]
+	path = third/rapidjson
+	url = https://github.com/Tencent/rapidjson
